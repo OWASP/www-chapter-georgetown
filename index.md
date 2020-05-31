@@ -16,7 +16,7 @@ altfooter: true
 &nbsp;&nbsp;&nbsp;[Leadership](leaders.md)
 &nbsp;&nbsp;&nbsp;[Donate](donate.md)
 
-<p><img src="/assets/images/owaspgeorgetown.jpg"></p>
+<p><img src="https://raw.githubusercontent.com/OWASP/www-chapter-georgetown/master/assets/images/owaspgeorgetown.jpg"></p>
 
 ## Welcome
 Welcome to the OWASP Georgetown, Texas chapter! The Chapter President is Robert Willis, you can email him at (robert[dot]willis[at]owasp.org), with any questions. 
