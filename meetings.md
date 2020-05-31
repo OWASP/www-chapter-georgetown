@@ -17,6 +17,8 @@ altfooter: true
 &nbsp;&nbsp;&nbsp;[Leadership](leaders.md)
 &nbsp;&nbsp;&nbsp;[Donate](donate.md)
 
+<p><img src="/assets/images/logo.png"></p>
+
 ## Meetings
 Our next meeting will be Wednesday, June 10th, 2020 at 8PM CST. The link to the meeting is the following:
 
