@@ -13,7 +13,7 @@ altfooter: true
 &nbsp;&nbsp;&nbsp;[Become a Member](membership.md)
 &nbsp;&nbsp;&nbsp;[Upcoming Meetings](meetings.md)
 &nbsp;&nbsp;&nbsp;[Sponsorship](sponsorship.md)
-&nbsp;&nbsp;&nbsp;[Leadership](leadership.md)
+&nbsp;&nbsp;&nbsp;[Leadership](leaders.md)
 &nbsp;&nbsp;&nbsp;[Donate](donate.md)
 
 <p><img src="/assets/images/web/404-old-owasp.png"></p>
