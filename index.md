@@ -16,7 +16,7 @@ altfooter: true
 &nbsp;&nbsp;&nbsp;[Leadership](leaders.md)
 &nbsp;&nbsp;&nbsp;[Donate](donate.md)
 
-<p><img src="/assets/images/web/404-old-owasp.png"></p>
+<p><img src="/assets/images/logo.png"></p>
 
 ## Welcome
 Welcome to the OWASP Georgetown, Texas chapter! The Chapter Leader is Robert Willis, you can email him at (robert[dot]willis[at]owasp.org), with any questions. Joining our meetings are free, however, if you would like to become a member, please join through this page (link below).
@@ -27,8 +27,6 @@ Currently due to COVID-19 we will be meeting online through Zoom. Our next meeti
 June 10th, 2020 Zoom Meeting
 https://zoom.us/j/5334481324
 Meeting ID: 533 448 1324
-
-<p><img src="/assets/images/logo.png"></p>
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
