@@ -25,7 +25,7 @@ altfooter: true
 * James Medlock - Education Coordinator
 * Victoria Willis - Marketing Coordinator
 
-### Advisory Board
+### Board
 * Robert Willis
 * Christopher Caruso
 * James Medlock
