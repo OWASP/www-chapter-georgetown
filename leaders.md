@@ -19,5 +19,14 @@ altfooter: true
 
 <p><img src="/assets/images/logo.png"></p>
 
-### Leaders
-* [Robert Willis](mailto:robert.willis@owasp.org)
+### Leaders, Board Members
+* [Robert Willis - Chapter President, Project Coordinator](mailto:robert.willis@owasp.org)
+* Christopher Caruso - Sponsor Coordinator, Treasurer
+* James Medlock - Education Coordinator
+* Victoria Willis - Marketing Coordinator
+
+### Advisory Board
+* Robert Willis
+* Christopher Caruso
+* James Medlock
+* Victoria Willis
