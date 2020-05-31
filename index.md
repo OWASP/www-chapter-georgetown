@@ -19,7 +19,8 @@ altfooter: true
 <p><img src="/assets/images/logo.png"></p>
 
 ## Welcome
-Welcome to the OWASP Georgetown, Texas chapter! The Chapter Leader is Robert Willis, you can email him at (robert[dot]willis[at]owasp.org), with any questions. Joining our meetings are free, however, if you would like to become a member, please join through this page (link below).
+Welcome to the OWASP Georgetown, Texas chapter! The Chapter President is Robert Willis, you can email him at (robert[dot]willis[at]owasp.org), with any questions. 
+* Joining our meetings are free, however, if you would like to become a member, please join through this page (link below).
 
 ## Next Meeting
 Currently due to COVID-19 we will be meeting online through Zoom. Our next meeting will be Wednesday, June 10th, 2020 at 8PM CST. The link to the meeting is the following: 
