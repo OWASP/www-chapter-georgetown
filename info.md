@@ -8,4 +8,10 @@
 ### Social Links
 * [Follow us on Twitter](https://twitter.com/owaspgeorgetown)
 
+### Leadership
+* Robert Willis
+* Christopher Caruso
+* James Medlock
+* Victoria Willis
+
 
