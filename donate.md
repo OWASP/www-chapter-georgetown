@@ -9,7 +9,7 @@ region: North America
 altfooter: true
 
 ---
-<strong>Home Page</strong>
+[Homepage](index.md)
 &nbsp;&nbsp;&nbsp;[Become a Member](membership.md)
 &nbsp;&nbsp;&nbsp;[Upcoming Meetings](meetings.md)
 &nbsp;&nbsp;&nbsp;[Sponsorship](sponsorship.md)
