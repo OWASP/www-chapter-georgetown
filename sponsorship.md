@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Georgetown - Sponsorship Opportunities
+title: OWASP Georgetown - Sponsorship - OWASP.org
 tags: georgetown, texas, williamson county
 
 region: North America
