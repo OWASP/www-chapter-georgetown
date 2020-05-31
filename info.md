@@ -9,9 +9,8 @@
 * [Follow us on Twitter](https://twitter.com/owaspgeorgetown)
 
 ### Leadership
-* Robert Willis
-* Christopher Caruso
-* James Medlock
-* Victoria Willis
-
+* [Robert Willis](https://twitter.com/rej_ex)
+* [Christopher Caruso](https://twitter.com/owaspgeorgetown)
+* [James Medlock](https://twitter.com/SATCOM_Jim)
+* [Victoria Willis](https://twitter.com/infosecwriter)
 
