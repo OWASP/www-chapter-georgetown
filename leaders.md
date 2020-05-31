@@ -17,7 +17,7 @@ altfooter: true
 &nbsp;&nbsp;&nbsp;[Leadership](leaders.md)
 &nbsp;&nbsp;&nbsp;[Donate](donate.md)
 
-<p><img src="/assets/images/logo.png"></p>
+<p><img src="https://raw.githubusercontent.com/OWASP/www-chapter-georgetown/master/assets/images/owaspgeorgetown.jpg"></p>
 
 ### Leadership
 * [Robert Willis - Chapter President, Project Coordinator](mailto:robert.willis@owasp.org)
