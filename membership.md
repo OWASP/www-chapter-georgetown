@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Georgetown
+title: OWASP Georgetown - Membership - OWASP.org
 tags: georgetown, texas, williamson county
 
 region: North America
