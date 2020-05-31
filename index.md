@@ -44,7 +44,3 @@ Many of our members enjoy training others newer to cybersecurity. Our meetings w
 >See the <a href="https://lascon.org" target="_blank">LASCON website</a> for more information.
 
 [back to top](#welcome)
-
-{info.md}
-
-{leaders.md}
