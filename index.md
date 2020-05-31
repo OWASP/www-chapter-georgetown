@@ -25,7 +25,7 @@ Welcome to the OWASP Georgetown, Texas chapter! The Chapter Leader is Robert Wil
 Currently due to COVID-19 we will be meeting online through Zoom. Our next meeting will be Wednesday, June 10th, 2020 at 8PM CST. The link to the meeting is the following: 
 
 June 10th, 2020 Zoom Meeting
-https://zoom.us/j/5334481324
+[Join our Meeting](https://zoom.us/j/5334481324)
 Meeting ID: 533 448 1324
 
 ## Participation
