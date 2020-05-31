@@ -2,10 +2,17 @@
 
 layout: col-sidebar
 title: OWASP Georgetown
-tags: example-tag
+tags: georgetown, texas, williamson county
+
 region: North America
 
+altfooter: true
+
 ---
+<strong>Home Page</strong>
+&nbsp;&nbsp;&nbsp;[Upcoming Meeting](meetings.md)
+&nbsp;&nbsp;&nbsp;[Sponsorship](sponsorship.md)
+&nbsp;&nbsp;&nbsp;[Chapter Leadership](leadership.md)
 
 ## Welcome
 Welcome to the OWASP Georgetown, Texas chapter! The Chapter Leader is Robert Willis, you can email him at robert.willis@owasp.org with any questions. Joining our meetings are free, however, if you would like to become a member, please join through this page (link below).
