@@ -1,7 +1,7 @@
 ### Georgetown Information
-* Provide Group Information
+* [Become a Member](https://owasp.org/index.php/Membership)
 
 ### Social Links
-* [Meetup](#)
+* [Follow us on Twitter](https://twitter.com/owaspgeorgetown)
 
 
