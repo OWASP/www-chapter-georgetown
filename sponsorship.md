@@ -21,7 +21,7 @@ altfooter: true
 
 ## Sponsorship Opportunities with OWASP Georgetown ##
 
-OWASP Georgetown can offer your company several sponsorship opportunities. If you are interested in taking advantage of any of these opportunities, please contact Tiana Chandler (robert[dot]willis[at]owasp.org).
+OWASP Georgetown can offer your company several sponsorship opportunities. If you are interested in taking advantage of any of these opportunities, please contact Robert Willis (robert[dot]willis[at]owasp.org).
 
 ### OWASP Meeting Presenter Sponsorship ### 
 
