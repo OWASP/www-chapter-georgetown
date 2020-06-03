@@ -11,11 +11,8 @@ altfooter: true
 ---
 
 [Home Page](index.md)
-&nbsp;&nbsp;&nbsp;[Become a Member](membership.md)
 &nbsp;&nbsp;&nbsp;[Upcoming Meetings](meetings.md)
-&nbsp;&nbsp;&nbsp;[Sponsorship](sponsorship.md)
-&nbsp;&nbsp;&nbsp;[Leadership](leaders.md)
-&nbsp;&nbsp;&nbsp;[Donate](donate.md)
+&nbsp;&nbsp;&nbsp;[Contact](leaders.md)
 
 <p><img src="https://raw.githubusercontent.com/OWASP/www-chapter-georgetown/master/assets/images/owaspgeorgetown.jpg"></p>
 
