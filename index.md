@@ -10,16 +10,13 @@ altfooter: true
 
 ---
 <strong>Home Page</strong>
-&nbsp;&nbsp;&nbsp;[Become a Member](membership.md)
 &nbsp;&nbsp;&nbsp;[Upcoming Meetings](meetings.md)
-&nbsp;&nbsp;&nbsp;[Sponsorship](sponsorship.md)
-&nbsp;&nbsp;&nbsp;[Leadership](leaders.md)
-&nbsp;&nbsp;&nbsp;[Donate](donate.md)
+&nbsp;&nbsp;&nbsp;[Contact](leaders.md)
 
 <p><img src="https://raw.githubusercontent.com/OWASP/www-chapter-georgetown/master/assets/images/owaspgeorgetown.jpg"></p>
 
 ## Welcome
-Welcome to the OWASP Georgetown, Texas chapter! The Chapter President is Robert Willis, you can email him at (robert[dot]willis[at]owasp.org), with any questions. 
+Welcome to the OWASP Georgetown, Texas chapter! The Chapter President is Robert Willis, you can email him at [robert.willis@owasp.org](mailto:robert.willis@owasp.org), with any questions. 
 * Joining our meetings are free, however, if you would like to become a member, please join through this page.
 
 ## Next Meeting
