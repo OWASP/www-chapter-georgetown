@@ -20,9 +20,9 @@ Welcome to the OWASP Georgetown, Texas chapter! The Chapter President is Robert 
 * Joining our meetings are free, however, if you would like to become a member, please join through this page.
 
 ## Next Meeting
-Currently due to COVID-19 we will be meeting online through Zoom. Our next meeting will be Wednesday, June 10th, 2020 at 8PM CST. The link to the meeting is the following: 
+Currently due to COVID-19 we will be meeting online through Zoom. Our next meeting will be Wednesday, September 16th, 2020 at 8PM CST. The link to the meeting is the following: 
 
-June 10th, 2020 Zoom Meeting
+September 16th, 2020 Zoom Meeting
 [Join our Meeting](https://zoom.us/j/5334481324)
 Meeting ID: 533 448 1324
 
