@@ -6,6 +6,7 @@
 * [Donate](https://owasp.org/donate)
 
 ### Social Links
+* [Meetup](https://www.meetup.com/Georgetown-OWASP-Meetup-Group/)
 * [Follow us on Twitter](https://twitter.com/owaspgeorgetown)
 
 ### Leadership
