@@ -3,10 +3,9 @@
 layout: col-sidebar
 title: OWASP Georgetown
 tags: georgetown, texas, williamson county
-
 region: North America
-
 altfooter: true
+meetup-group: Georgetown-OWASP-Meetup-Group
 
 ---
 <strong>Home Page</strong>
@@ -19,7 +18,15 @@ altfooter: true
 Welcome to the OWASP Georgetown, Texas chapter! The Chapter President is Robert Willis, you can email him at [robert.willis@owasp.org](mailto:robert.willis@owasp.org), with any questions. 
 * Joining our meetings are free, however, if you would like to become a member, please join through this page.
 
-## Next Meeting
+### Upcoming Meetings
+
+We schedule our meetings on the [OWASP Georgetown Meetup Group](https://www.meetup.com/Georgetown-OWASP-Meetup-Group/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+
+## Past Meeting
 Currently due to COVID-19 we will be meeting online through Zoom. Our next meeting will be Wednesday, September 16th, 2020 at 8PM CST. The link to the meeting is the following: 
 
 September 16th, 2020 Zoom Meeting
