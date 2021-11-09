@@ -9,6 +9,5 @@
 * [Meetup](https://www.meetup.com/Georgetown-OWASP-Meetup-Group/)
 * [Follow us on Twitter](https://twitter.com/owaspgeorgetown)
 
-### Leadership
-* [Robert Willis](mailto:robert.willis@owasp.org)
+
 
